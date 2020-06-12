@@ -1,0 +1,11 @@
+BFS
+test1: 0 2 3 4 5 7 (checked)
+test2: 0 2 4 1 6 7 5 3 (checked)
+test3: 0 3 4 1 7 2 5 (checked)
+test4: 0 1 2 3 4 6 5 7 10 11 8 9  (checked)
+
+DFS
+test1: 0 2 3 5 7 4  (checked)
+test2: 0 2 1 4 7 5 3 6  (checked)
+test3: 0 3 1 2 5 7 4  (checked)
+test4: 0 1 2 4 5 10 11 3 6 7 8 9   (checked)
